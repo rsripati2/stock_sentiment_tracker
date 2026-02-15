@@ -1,0 +1,10 @@
+streamlit
+yfinance
+vaderSentiment
+python-dotenv
+pandas
+matplotlib
+plotly
+requests
+google-generativeai
+yahooquery
